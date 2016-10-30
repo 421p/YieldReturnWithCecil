@@ -1,0 +1,7 @@
+packages/
+.vs/
+.git/
+Program/bin
+Program/obj
+TestProj/bin
+TestProj/obj
